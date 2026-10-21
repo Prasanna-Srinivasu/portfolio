@@ -247,7 +247,7 @@ export const CERTIFICATIONS: CertificationItem[] = [
 export const EXPERIENCE: ExperienceItem[] = [
   {
     id: "hcl",
-    role: "Customer Service Representative | Technical / Application Experience",
+    role: "Java Full-Stack Developer",
     company: "HCL Technologies",
     type: "experience",
     period: "Aug 2023 – Apr 2026",
